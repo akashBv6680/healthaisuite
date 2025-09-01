@@ -1,7 +1,7 @@
 streamlit>=1.20
 torch
-transformers
 torchvision
+transformers
 Pillow
 scikit-learn
 pandas
